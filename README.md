@@ -8,7 +8,7 @@ A repository for the assignments in my Computer Systems Architecture class (Autu
 ### Lecture
 
 *  *  *
-textbook - Digital Logic and Computer Architecture by David Harris, Sarah Harris\
+Textbook - Digital Logic and Computer Architecture by David Harris, Sarah Harris\
 chapter 6 (1-5) / chapter 7 (1-5) / chapter 8 (1-4)
 *  *  *
 ### Homework and projects
