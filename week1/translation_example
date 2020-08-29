@@ -1,13 +1,13 @@
-#FORTRAN
+# FORTRAN
 result = 6*alpha+beta
 
-#MIPS assembly language
+# MIPS assembly language
 lw  $t0,alpha           # copy alpha to register $t0
 lw  $t1,beta            # copy beta  to register $t1
 mul $t2,$t0,6           # multiply $t0 times 6; result in $t2
 add $t2,$t2,$t1         # add $t2 and $t1; result in $t2
 sw  $t2,result          # copy answer to result
 
-
+#  VAX assembly language
 MULL3   #6,ALPHA,R5
 ADDL3   R5,BETA,RESULT
