@@ -5,7 +5,7 @@ A repository for the assignments in my Computer Systems Architecture class (Autu
 - Microarchitecture for MIPS Microprocessors
 - Memory Architecture including cache architecture
 
-### lecture
+### Lecture
 
 *  *  *
 textbook - Digital Logic and Computer Architecture by David Harris, Sarah Harris\
