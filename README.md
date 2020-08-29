@@ -1,5 +1,5 @@
 # Computer-Systems-Architecture
-A repository for the assignments in my Computer Systems Architecture class (Autumn Semester, 2020)
+A repository for Computer Systems Architecture class (Autumn Semester, 2020)
 ## Class Description
 - Computer Architecture and Assembly Language
 - Microarchitecture for MIPS Microprocessors
