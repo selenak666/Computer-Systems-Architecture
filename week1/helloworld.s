@@ -1,4 +1,4 @@
-# helloworld.s ()
+# helloworld.s (.s -> assembly code file format)
 # Print out "Hello World"
 
 
